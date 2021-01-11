@@ -1,0 +1,263 @@
+* {
+    font-family: ;
+    /* box-sizing: border-box; */
+}
+body{
+    margin-top: 0;
+}
+.sabitkalsın{
+    height:56px;
+    width: 1460px;
+    position: fixed;
+    border-bottom: 1px solid rgba(158, 146, 146, 0.1);
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+}
+div.googleamblem {
+    width: 92px;
+    height: 30px;
+    float: left;
+    margin-left: 1em;
+}
+.googleamblem img {
+   width: 100%;
+   margin-top: 0.9em;
+}
+.googlearama{
+    margin-left: 6%;
+    float: left;
+    margin-top: 1em;
+}
+.googleicons{
+    float:right;
+    margin-right: 2em;
+    margin-top:0.25em ;
+}
+.googleapps{
+    float:left;
+}
+.gmail{
+    float:left;
+}
+.googlemenu{
+    padding-top: 57px;
+    margin-left: 160px;
+    font-size:14px;
+    font-family: 'Noto Sans', sans-serif;
+    width:1400px;
+}
+.googlemenu a{
+    text-decoration: none ;
+    display:inline;
+}
+.menucontent1{
+    color:#1a73e8;
+    display:inline-block;
+    padding:16px 12px 12px 10px;
+}
+.menucontent{
+    display:inline-block;
+    padding:16px 12px 12px 10px;
+    color:#5f6368;
+}
+.araclar:hover {
+    background-color:#f8f9fa;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border: 1px solid #dadce0;
+    padding:4px 10px 4px 10px;;
+}
+div.enbuyukbox{
+
+}
+div.sonucbulundu{
+    width: 1081px;
+    height: 43px;
+    float: left;
+    margin-left:160px;
+    padding-top: 8px;
+}
+.section1box{
+    margin-left: 160px;
+    float: left;
+    width:652px;
+}
+.section1box a:hover{
+    text-decoration: underline;
+}
+.sayfalink{
+    color: #202124;
+    font-size:14px;
+    display:inline-block;
+    padding: 1px 0px 2px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sayfabaslık a{
+    font-size: 22px;
+    display: inline-block;
+    margin-bottom: 3px;
+    margin-top: 1px;
+    color: #1a0dab;
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+}
+.sayfaicerik{
+    color:rgb(77, 81, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    line-height: 1.58;
+}
+.link a{
+    color: #1a0dab;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 22.12px;
+    font-size: 14px;
+}
+.habersection{
+    width: 652px;
+    height: 382px;
+}
+.habermainbox{
+    width: 212px;
+    height: 374px;
+    margin: 4px 3px 4px 0px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16.8px;
+    border: 1px solid #dfe1e5;
+    border-radius: 8px;
+    position: relative;
+}
+.haberresim{
+    margin-bottom: 8px;
+}
+.haberamblem {
+    margin: 0px 0px 0px 12px ;
+}
+.haberbaslık{
+    padding: 8px 12px 0px 12px;
+    line-height: 22.12px;
+}
+div.haberzaman{
+    position:absolute ;
+    bottom: 0px;
+    padding: 0px 0px 10px 12px;
+    font-family arial, sans-serif;
+    font-size 14px;
+    line-height 18.76px; 
+}
+.twittersection{
+    clear: both;
+}
+.istanbulilgiliaramalar{
+    clear: both;
+}
+div.enaltbaslık{
+    color:#202124;
+    font-family: arial, sans-serif;
+    font-size: 22px;
+    line-height: 28.06px;
+    padding-bottom: 20px;
+}
+div.aramalink{
+    width: 250px;
+    height: 104px;
+    display: inline-block;
+    line-height: 23px;
+}
+div.aramalink a{
+    text-decoration: none;      
+}
+div.infomainbox{
+    width: 364px;
+    height: 1100px;
+    float: left;
+    margin-left: 50px;
+    border: 1px solid rgb(223, 225, 229);
+}
+div.infopic{
+    width: 182px;
+    height: 160px;
+    float: left;
+}
+div.infopic img{
+    width: 100%;
+    height: 100%;
+}
+div.infobaslıkbox{
+    clear: both;
+    width: 366px;
+    height:66px;
+    padding: 12px 0px 12px 0px;
+    border-bottom:1px solid rgb(223, 225, 229);
+}
+div.infobaslıkbox span.infobaslık{
+    color:rgba(0, 0, 0, 0.87);
+    font-size: 30px;
+    margin-left: 12px;
+}
+div.infobaslıkbox span.sayfaicerik{
+    margin-left: 12px;
+}
+div.infocontentbox {
+    margin: 10px 0px 0px 10px;
+}
+span.infoaltbaslık{
+    color: #222;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.gezi1{
+    width: 336px;
+    height:25.6px;
+    border-bottom:1px solid rgb(223, 225, 229);
+}
+div.gezi_2{
+    width: 336px;
+    height:41.6px;
+    position: relative;
+    border-bottom:1px solid rgb(223, 225, 229);
+}
+div.gezi_2 img{
+    margin: 10px 0px 0px 0px;
+}
+div.gezi_2.yatak{
+    height:61.6px;
+}
+div.gezi_2 span.siyahlink{
+}
+div.infosubbox2{
+    width: 336px;
+    height: 25.6px;
+    margin:24px 10px 0px 4px;
+}
+div.infosubbox3{
+    width: 336px;
+    height: 128px;
+    padding-top: 8px;
+}
+div.turistikpic{
+    width: 72px;
+    height: 40px;
+    float:left;
+    margin-right: 12px;
+}
+div.turistikpic img{
+    width: 100%;
+}
+div.infosubbox3names{
+    clear: both;
+}
+div.turistikpicnames{
+    float: left;
+    width: 72px;
+    height:42px;
+    margin-right: 12px;
+
+}
+div.ayaklık{
+    clear: both;
+}
+
